@@ -1,7 +1,7 @@
 # Dungeons   7.1.0.22996
 
 
-# [Ragefire Chasm](https://github.com/qiwbly/Dungeons/blob/master/Ragefire%20Chasm.xml)    15-16 Progress: Started
+# [Ragefire Chasm](https://github.com/qiwbly/Dungeons/blob/master/Ragefire Chasm.xml)    15-16 Progress: Started
 * Adarogg
 * Dark Shaman Koranthal
 * Slagmaw
@@ -66,36 +66,36 @@
 * High Inquisitor Whitemane
 
 # Maraudon          32-35
- — Orange
+*  — Orange
 * Noxxion
 * Razorlash
- — Purple
+*  — Purple
 * Tinkerer Gizlock
 * Lord Vyletongue
->>Poison Falls
+*  — Poison Falls
 * Celebras the Cursed
- — Inner
+*  — Inner
 * Landslide
 * Rotgrip
 * Princess Theradras
 
 # Razorfen Kraul    32-35
- • Roogug
- • Aggem Thorncurse
- • Death Speaker Jargba
- • Overlord Ramtusk
- • Agathelos the Raging
- • Charlga Razorflank
+* Roogug
+* Aggem Thorncurse
+* Death Speaker Jargba
+* Overlord Ramtusk
+* Agathelos the Raging
+* Charlga Razorflank
 
 # Uldaman           37-40
- • Revelosh
- • Baelog
- • Ironaya
- • Obsidian Sentinel
- • Ancient Stone Keeper
- • Galgann Firehammer
- • Grimlok
- • Archaedas
+* Revelosh
+* Baelog
+* Ironaya
+* Obsidian Sentinel
+* Ancient Stone Keeper
+* Galgann Firehammer
+* Grimlok
+* Archaedas
 
 # Dire Maul         38-41
  — East

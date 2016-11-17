@@ -66,15 +66,15 @@
 * High Inquisitor Whitemane
 
 # Maraudon          32-35
->>Orange
+ — Orange
 * Noxxion
 * Razorlash
->>Purple
+ — Purple
 * Tinkerer Gizlock
 * Lord Vyletongue
 >>Poison Falls
 * Celebras the Cursed
->>Inner
+ — Inner
 * Landslide
 * Rotgrip
 * Princess Theradras
@@ -98,12 +98,12 @@
  • Archaedas
 
 # Dire Maul         38-41
->>East
+ — East
  • Zevrim Thornhoof
  • Hydrospawn
  • Lethtendris
  • Alzzin the Wildshaper
->>North
+ — North
  • Guard Mol'dar
  • Stomper Kreeg
  • Guard Fengus
@@ -111,7 +111,7 @@
  • Captain Kromcrush
  • King Gordok
  • Cho'Rush the Observer
->>West
+ — West
  • Tendris Warpwood
  • Illyanna Ravenoak
  • Magister Kalendris
@@ -143,7 +143,7 @@
  • Chief Ukorz Sandscalp
 
 # Stratholme        48-51
->>Live Side
+ — Live Side
  • The Unforgiven
  • Hearthsinger Forresten
  • Timmy the Cruel
@@ -151,7 +151,7 @@
  • Willey Hopebreaker
  • Instructor Galford
  • Balnazzar
->>Dead Side
+ — Dead Side
  • Baroness Anastari
  • Nerub'enkan
  • Maleki the Pallid
@@ -188,7 +188,7 @@
  • Emperor Dagran Thaurissan
 
 # Blackrock Spire   57-58
->>Lower
+ — Lower
  • Highlord Omokk
  • Shadow Hunter Vosh'gajin
  • War Master Voone
@@ -198,7 +198,7 @@
  • Gizrul the Slavener
  • Halycon
  • Overlord Wyrmthalak
->>Upper
+ — Upper
  • Pyroguard Emberseer
  • Warchief Rend Blackhand
  • Gyth

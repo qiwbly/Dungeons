@@ -1,7 +1,7 @@
 # Dungeons   7.1.0.22996
 
 
-# [Ragefire Chasm](https://github.com/qiwbly/Dungeons/blob/master/Ragefire%20Chasm.xml)    15-16
+# [Ragefire Chasm](https://github.com/qiwbly/Dungeons/blob/master/Ragefire%20Chasm.xml)    15-16 Progress: Started
 * Adarogg
 * Dark Shaman Koranthal
 * Slagmaw
@@ -17,67 +17,67 @@
 
 # Wailing Caverns   17-20
 * Lady Anacondra
- • Lord Cobrahn
- • Kresh
- • Lord Pythas
- • Skum
- • Lord Serpentis
- • Verdan the Everliving
- • Mutanus the Devourer
+* Lord Cobrahn
+* Kresh
+* Lord Pythas
+* Skum
+* Lord Serpentis
+* Verdan the Everliving
+* Mutanus the Devourer
 
 # Shadowfang Keep   18-21
- • Baron Ashbury
- • Baron Silverlaine
- • Commander Springvale
- • Lord Walden
- • Lord Godfrey
+* Baron Ashbury
+* Baron Silverlaine
+* Commander Springvale
+* Lord Walden
+* Lord Godfrey
 
 # The Stockade      22-25
- • Randolph Moloch
- • Lord Overheat
- • Hogger
+* Randolph Moloch
+* Lord Overheat
+* Hogger
 
 # Blackfathom Deeps 22-25
- • Ghamoo-Ra
- • Lady Sarevess
- • Gelihast
- • Lorgus Jett
- • Baron Aquanis
- • Twilight Lord Kelris
- • Old Serra'kis
- • Aku'mai the Devourer
+* Ghamoo-Ra
+* Lady Sarevess
+* Gelihast
+* Lorgus Jett
+* Baron Aquanis
+* Twilight Lord Kelris
+* Old Serra'kis
+* Aku'mai the Devourer
 
 # Gnomeregan        26-29
- • Techbot
- • Viscous Fallout
- • Grubbis
- • Electrocutioner 6000
- • Crowd Pummeler 9-60
- • Mekgineer Thermaplugg
+* Techbot
+* Viscous Fallout
+* Grubbis
+* Electrocutioner 6000
+* Crowd Pummeler 9-60
+* Mekgineer Thermaplugg
 
 # Scarlet Halls     28-31
- • Houndmaster Braun
- • Armsmaster Harlan
- • Flameweaver Koegler
+* Houndmaster Braun
+* Armsmaster Harlan
+* Flameweaver Koegler
 
 # Scarlet Monastery 30-33
- • Thalnos the Soulrender
- • Brother Korloff
- • High Inquisitor Whitemane
+* Thalnos the Soulrender
+* Brother Korloff
+* High Inquisitor Whitemane
 
 # Maraudon          32-35
 >>Orange
- • Noxxion
- • Razorlash
+* Noxxion
+* Razorlash
 >>Purple
- • Tinkerer Gizlock
- • Lord Vyletongue
+* Tinkerer Gizlock
+* Lord Vyletongue
 >>Poison Falls
- • Celebras the Cursed
+* Celebras the Cursed
 >>Inner
- • Landslide
- • Rotgrip
- • Princess Theradras
+* Landslide
+* Rotgrip
+* Princess Theradras
 
 # Razorfen Kraul    32-35
  • Roogug

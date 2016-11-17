@@ -119,11 +119,11 @@
  • Prince Tortheldrin
 
 # Scholomance       40-43
- • Instructor Chillheart
- • Jandice Barov
- • Rattlegore
- • Lilian Voss
- • Darkmaster Gandling
+* Instructor Chillheart
+* Jandice Barov
+* Rattlegore
+* Lilian Voss
+* Darkmaster Gandling
 
 # Razorfen Downs    42-45
  • Tuten'kash

@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-16"?>
+<GrinderProfile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <GrinderZones>
+    <GrinderZone>
+      <Name>Ragefire Chasm</Name>
+      <Hotspots>false</Hotspots>
+      <MinLevel>0</MinLevel>
+      <MaxLevel>999</MaxLevel>
+      <MinTargetLevel>0</MinTargetLevel>
+      <MaxTargetLevel>999</MaxTargetLevel>
+      <TargetEntry>
+        <int>61657</int>
+        <int>61658</int>
+        <int>61666</int>
+        <int>61408</int>
+      </TargetEntry>
+      <TargetFactions />
+      <Vectors3>
+        <Vector3 X="1810.844" Y="-4407.653" Z="-18.63329" />
+        <Vector3 X="1814.026" Y="-4413.987" Z="-18.03853" />
+        <Vector3 X="1816.707" Y="-4418.916" Z="-18.56876" />
+        <Vector3 X="1819.443" Y="-4423.815" Z="-19.82888" />
+        <Vector3 X="0.797643" Y="-8.25929" Z="-15.53674" />
+        <Vector3 X="0.5014386" Y="-13.85774" Z="-17.29897" />
+        <Vector3 X="0.0123574" Y="-20.95972" Z="-19.96202" />
+        <Vector3 X="-1.04265" Y="-27.86827" Z="-21.54226" />
+        <Vector3 X="-3.060229" Y="-34.573" Z="-21.85221" />
+        <Vector3 X="-6.034294" Y="-41.04839" Z="-21.81849" />
+        <Vector3 X="-10.63035" Y="-46.22764" Z="-21.83787" />
+        <Vector3 X="-18.479" Y="-48.50014" Z="-21.8637" />
+        <Vector3 X="-23.60517" Y="-47.08284" Z="-21.8637" />
+        <Vector3 X="-30.39203" Y="-45.34306" Z="-21.8637" />
+        <Vector3 X="-37.12924" Y="-43.44303" Z="-21.8637" />
+        <Vector3 X="-43.83457" Y="-41.38952" Z="-21.8637" />
+        <Vector3 X="-50.27229" Y="-39.29784" Z="-21.39791" />
+        <Vector3 X="-62.11343" Y="-36.00666" Z="-18.51281" />
+        <Vector3 X="-69.45033" Y="-35.52101" Z="-18.122" />
+        <Vector3 X="-76.45719" Y="-35.51733" Z="-19.22755" />
+        <Vector3 X="-83.57305" Y="-35.50679" Z="-21.50514" />
+        <Vector3 X="-90.65147" Y="-34.52272" Z="-25.35515" />
+        <Vector3 X="-97.73096" Y="-35.25154" Z="-29.32129" />
+        <Vector3 X="-104.7184" Y="-35.77407" Z="-29.96046" />
+        <Vector3 X="-111.5862" Y="-37.15136" Z="-31.07591" />
+        <Vector3 X="-118.5601" Y="-38.57208" Z="-31.86929" />
+        <Vector3 X="-126.0251" Y="-36.79456" Z="-33.09821" />
+        <Vector3 X="-132.2481" Y="-35.81918" Z="-33.40639" />
+      </Vectors3>
+      <Npc>
+        <Npc>
+          <Position X="1769.899" Y="-4366.357" Z="-15.87348" Type="Flying" />
+          <Entry>3329</Entry>
+          <Name>Kor'jus</Name>
+          <GossipOption>-1</GossipOption>
+          <Active>true</Active>
+          <Faction>Neutral</Faction>
+          <Type>Vendor</Type>
+          <ContinentId>Kalimdor</ContinentId>
+        </Npc>
+      </Npc>
+      <BlackListRadius />
+      <NotLoop>false</NotLoop>
+    </GrinderZone>
+  </GrinderZones>
+</GrinderProfile>

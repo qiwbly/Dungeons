@@ -8,15 +8,15 @@
 * Lava Guard Gordoth
 
 # The Deadmines     15-16
- • Glubtok
- • Helix Gearbreaker
- • Foe Reaper 5000
- • Admiral Ripsnarl
- • "Captain" Cookie
- • Vanessa VanCleef (Heroic)
+* Glubtok
+* Helix Gearbreaker
+* Foe Reaper 5000
+* Admiral Ripsnarl
+* "Captain" Cookie
+* Vanessa VanCleef (Heroic)
 
 # Wailing Caverns   17-20
- • Lady Anacondra
+* Lady Anacondra
  • Lord Cobrahn
  • Kresh
  • Lord Pythas

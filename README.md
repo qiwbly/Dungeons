@@ -1,12 +1,11 @@
-# Dungeons
-# 7.1.0.22996
+# Dungeons   7.1.0.22996
 
 
 # Ragefire Chasm    15-16
- • Adarogg
- • Dark Shaman Koranthal
- • Slagmaw
- • Lava Guard Gordoth
+* Adarogg
+* Dark Shaman Koranthal
+* Slagmaw
+* Lava Guard Gordoth
 
 # The Deadmines     15-16
  • Glubtok
